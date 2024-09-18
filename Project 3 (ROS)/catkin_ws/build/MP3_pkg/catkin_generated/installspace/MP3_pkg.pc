@@ -1,0 +1,8 @@
+prefix=/home/amirreza/catkin_ws/install
+
+Name: MP3_pkg
+Description: Description of MP3_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

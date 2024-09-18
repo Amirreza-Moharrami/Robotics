@@ -1,0 +1,8 @@
+prefix=/home/amirreza/catkin_ws/install
+
+Name: project3_pkg
+Description: Description of project3_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

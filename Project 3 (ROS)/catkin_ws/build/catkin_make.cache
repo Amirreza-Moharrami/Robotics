@@ -1,0 +1,2 @@
+MP3_pkg:project3_pkg:turtle_character_pkg
+-DCATKIN_DEVEL_PREFIX=/home/amirreza/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/amirreza/catkin_ws/install -G Unix Makefiles
