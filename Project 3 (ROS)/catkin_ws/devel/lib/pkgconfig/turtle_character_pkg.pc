@@ -1,8 +1,0 @@
-prefix=/home/amirreza/catkin_ws/devel
-
-Name: turtle_character_pkg
-Description: Description of turtle_character_pkg
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
