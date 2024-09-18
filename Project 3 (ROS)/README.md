@@ -1,3 +1,5 @@
-Turtlesim is a basic tool in the ROS (Robot Operating System) that helps with writing robot software. It’s like a simple game for learning about robots. It’s designed to help users grasp the basics of ROS, topics, publishing, subscribing, and services. 
+Turtlesim is a basic tool in the ROS (Robot Operating System) that helps with writing robot software. It’s like a simple game for learning about robots. It’s designed to help users grasp the basics of ROS, topics, publishing, subscribing, and services. 
+
 Turtlesim provides a 2D world where users can control a turtle icon, serving as a stepping stone for understanding and experimenting with robots in simulation before progressing to more complex and expensive robots. This makes ROS a comprehensive platform, offering a collection of tools, libraries, and conventions that simplify the creation of complex and robust robot behavior across various robotic platforms. 
+
 In this project, characters like ’2’ and ’λ’ will be drawn using turtles in Turtlesim. Python scripts will be created to rotate all turtles simultaneously and move characters using arrow keys,offering an interactive way to explore ROS features.
